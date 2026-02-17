@@ -1,2 +1,5 @@
-# Demo Project
-This is a new feature
+<<<<<<< HEAD
+# Demo Project - Branch A
+=======
+# Demo Project - Branch B
+>>>>>>> branch-B
